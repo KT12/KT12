@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KT12
 - 👀 I’m interested in sating my data curiosity
-- 🌱 I’m currently learning more about Bayesian statistics
+- 🌱 I’m currently learning more about dagster
 - 💞️ I’m looking to collaborate on projects touching on explainable ML or data engineering
 - 📫 I'm happy to hear from you at {lastname} (at) alumni dot {almamater} dot edu, where almamater = color of the college
 
